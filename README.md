@@ -1,7 +1,7 @@
 # **Проект: Mesto-react**
-https://feduk11.github.io/mesto-react/
+https://feduk11.github.io/react-mesto-auth/
 ------
 ## В этом проекте реалезовано:
-* Перенос проекта [Mesto](https://feduk11.github.io/mesto/) на React
+* Проект [Mesto](https://feduk11.github.io/mesto-react/) на React c регистрацией и авторизацией
 #### Планы по доработке проекта:
-* *Регистрация пользователей*.
+* *Реализовать более делальный бэкенд*.
